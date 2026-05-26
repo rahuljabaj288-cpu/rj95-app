@@ -1,0 +1,6 @@
+{
+  "name": "RJ95 Equipment Info App",
+  "description": "BMSICL Tender Status Management system featuring an editable tender status tracker, statistics dashboard, multi-language support, Excel/PDF/Print exports, interactive Google Drive backup & restore vault, and an Android-style professional UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
